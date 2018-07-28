@@ -11,12 +11,7 @@ using namespace std;
 
 
 int main() {
-	test a(5, 50);
-	a.affiche();
+	test b(5, 50);
+	b.affiche();
 	return 0;
 }
-
-
-
-
-
